@@ -1,5 +1,4 @@
-#include "stdafx.h"
-//#include "TLINKONELIST.h"
+#include "TLINKONELIST.h"
 #pragma once
 #ifndef TLINKONELIST_CPP	
 #define TLINKONELIST_CPP
@@ -7,8 +6,7 @@
 template<typename Type>
 TLinkOneList<Type>::TLinkOneList()
 {
-	/*if (Head != NULL)
-		ZeroMemory(this, sizeof(TLinkOneList));//*/
+	
 }
 
 template<typename Type>
